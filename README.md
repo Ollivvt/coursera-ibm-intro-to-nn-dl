@@ -25,4 +25,4 @@
   - Autoencoders
 
 ## Certificate
-[Verified Certificate](https://coursera.org/share/43945b8bbeef32b729744c29780bac48)
+- [Verified Certificate](https://coursera.org/share/43945b8bbeef32b729744c29780bac48)
