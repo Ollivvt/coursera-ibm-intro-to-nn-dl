@@ -1,4 +1,4 @@
-# coursera-ibm-intro-to-NN-DL
+# Introduction to Deep Learning and Neural Networks With Keras (Coursera)
 ### Week1
 - Introduction to Deep Learning
 - Neural Networks
