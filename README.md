@@ -14,3 +14,12 @@
 - Deep Learning Libraries
 - Regression Models with Keras
 - Classification Models with Keras
+
+### Week 4
+- Shallow Versus Deep Neural Networks
+- Supervised Learning Models
+  - Convolutional Neural Networks (CNNs)
+    ![下午6 17 2023-8-2的影像](https://github.com/Ollivvt/coursera-ibm-intro-to-nn-dl/assets/86839549/7633ce3d-1200-4d7a-97da-d586c32c9b8d)
+  - Recurrent Neural Networks (RNNs)
+- Unsupervised Learning Models 
+  - Autoencoders
